@@ -2,3 +2,5 @@ x=10
 y=20
 add=x+y
 print("add="+add)
+mul=x*y
+print("x*y=",mul)
