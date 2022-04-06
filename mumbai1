@@ -4,3 +4,5 @@ add=x+y
 print("add="+add)
 mul=x*y
 print("x*y=",mul)
+div=y/x
+print("div=",div)
